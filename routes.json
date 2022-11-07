@@ -1,0 +1,4 @@
+{
+    "/author/posts/:id": "/posts?id=:id",
+    "/articles\\?id=:id": "/posts/:id"
+  }
